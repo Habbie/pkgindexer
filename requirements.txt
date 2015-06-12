@@ -1,0 +1,3 @@
+elasticsearch
+python-debian
+chardet # python-debian won't work without, bug?
